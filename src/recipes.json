@@ -1,0 +1,29 @@
+{
+    "name": "Seppi's Recipes",
+    "recipes": [
+        {
+            "img": "assets/mac.png",
+            "name": "Mac & Cheese",
+            "prep": 0,
+            "cook": 15,
+            "serves": 2,
+            "ingredients": [
+                "1 Box Craft Mac & Cheese",
+                "1 teaspoon butter",
+                "1 splash of milk",
+                "1 or 2 slices of kraft cheese",
+                "2 or 3 hot dogs or sausages (optional)",
+                "1 pinch of salt"
+            ],
+            "directions": [
+                "Dump noodles in a pot and add enough water to ensure the noodles cook and put stovetop on high. If it starts to boil over, lower accordingly.",
+                "Add a pinch of salt to noodles and stir occasionally.",
+                "Cut up sausages/hot dog while the noodles are cooking, put them in with the noodles when you're done",
+                "Cook until noodles are to your liking and then strain them.",
+                "Turn stovetop to low heat, and put the noodles back into pot.",
+                "Melt butter with noodles.",
+                "Add cheese mix, milk and kraft cheese slices. The less milk, the cheesier the result."
+            ]
+        }
+    ]
+}
